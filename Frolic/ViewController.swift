@@ -13,8 +13,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-//test - karthik
-    //test - yash
+    
+    @IBAction func createAccount(_ sender: UIButton) {
+        // Go to create account screen
+    }
+    //test - karthik
+//test - yash
 
 }
 
