@@ -17,8 +17,9 @@ class ViewController: UIViewController {
     @IBAction func createAccount(_ sender: UIButton) {
         // Go to create account screen
     }
-    //test - karthik
-//test - yash
+    @IBAction func login(_ sender: UIButton) {
+        // Go to login screen
+    }
 
 }
 
