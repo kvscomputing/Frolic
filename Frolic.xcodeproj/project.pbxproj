@@ -16,6 +16,7 @@
 		B4FF104529A0DE4300AB5E29 /* FrolicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FF104429A0DE4300AB5E29 /* FrolicTests.swift */; };
 		B4FF104F29A0DE4300AB5E29 /* FrolicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FF104E29A0DE4300AB5E29 /* FrolicUITests.swift */; };
 		B4FF105129A0DE4300AB5E29 /* FrolicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FF105029A0DE4300AB5E29 /* FrolicUITestsLaunchTests.swift */; };
+		B4FF105E29A0ED0A00AB5E29 /* LaunchPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FF105D29A0ED0A00AB5E29 /* LaunchPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		B4FF104A29A0DE4300AB5E29 /* FrolicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FrolicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4FF104E29A0DE4300AB5E29 /* FrolicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrolicUITests.swift; sourceTree = "<group>"; };
 		B4FF105029A0DE4300AB5E29 /* FrolicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrolicUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B4FF105D29A0ED0A00AB5E29 /* LaunchPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				B4FF102D29A0DE4200AB5E29 /* AppDelegate.swift */,
 				B4FF102F29A0DE4200AB5E29 /* SceneDelegate.swift */,
 				B4FF103129A0DE4200AB5E29 /* ViewController.swift */,
+				B4FF105D29A0ED0A00AB5E29 /* LaunchPage.swift */,
 				B4FF103329A0DE4200AB5E29 /* Main.storyboard */,
 				B4FF103629A0DE4300AB5E29 /* Assets.xcassets */,
 				B4FF103829A0DE4300AB5E29 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				B4FF103229A0DE4200AB5E29 /* ViewController.swift in Sources */,
 				B4FF102E29A0DE4200AB5E29 /* AppDelegate.swift in Sources */,
 				B4FF103029A0DE4200AB5E29 /* SceneDelegate.swift in Sources */,
+				B4FF105E29A0ED0A00AB5E29 /* LaunchPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
